@@ -1,0 +1,19 @@
+.first {
+    background-color: rgb(202, 129, 141);
+    font-family: Verdana,"Dejavu Sans", sans-serif
+}
+
+#second {
+    color: rgb(15, 15, 155);
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#skatoules{
+    background-color: rgb(62, 179, 62);
+    font-size: 24px;
+    font-weight: bold;
+}
